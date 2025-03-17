@@ -62,4 +62,4 @@
 ```sh
 docker-compose up --build
 ```
-Сервис будет доступен по адресу `http://localhost:3000`
+Фронтэнд будет доступен по адресу `http://localhost:5173`, бэкэнд - `http://localhost:3000`
